@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FED02-2CA8-4E3B-8AB8-3F3F4235978A}|LowLua.vcxproj|C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\test.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AD7FED02-2CA8-4E3B-8AB8-3F3F4235978A}|LowLua.vcxproj|solutionrelative:test.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FED02-2CA8-4E3B-8AB8-3F3F4235978A}|LowLua.vcxproj|C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AD7FED02-2CA8-4E3B-8AB8-3F3F4235978A}|LowLua.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FED02-2CA8-4E3B-8AB8-3F3F4235978A}|LowLua.vcxproj|C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7FED02-2CA8-4E3B-8AB8-3F3F4235978A}|LowLua.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FED02-2CA8-4E3B-8AB8-3F3F4235978A}|LowLua.vcxproj|C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\common.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7FED02-2CA8-4E3B-8AB8-3F3F4235978A}|LowLua.vcxproj|solutionrelative:common.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "common.hpp",
+              "DocumentMoniker": "C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\common.hpp",
+              "RelativeDocumentMoniker": "common.hpp",
+              "ToolTip": "C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\common.hpp",
+              "RelativeToolTip": "common.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T03:10:33.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-26T03:05:20.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.lua",
+              "DocumentMoniker": "C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\test.lua",
+              "RelativeDocumentMoniker": "test.lua",
+              "ToolTip": "C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\test.lua",
+              "RelativeToolTip": "test.lua",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T02:16:47.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Riley Peel\\dev\\c\u002B\u002B\\LowLua\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T01:37:56.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

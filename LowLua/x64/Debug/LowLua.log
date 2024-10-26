@@ -1,0 +1,10 @@
+﻿LowLua.obj : error LNK2019: unresolved external symbol lua_close referenced in function "public: void __cdecl LowLua::close(void)" (?close@LowLua@@QEAAXXZ)
+LowLua.obj : error LNK2019: unresolved external symbol lua_gettop referenced in function "public: int __cdecl LowLua::top(void)" (?top@LowLua@@QEAAHXZ)
+LowLua.obj : error LNK2019: unresolved external symbol lua_settop referenced in function "public: void __cdecl LowLua::pop_top(void)" (?pop_top@LowLua@@QEAAXXZ)
+LowLua.obj : error LNK2019: unresolved external symbol lua_tolstring referenced in function "public: void __cdecl LowLua::error(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?error@LowLua@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+LowLua.obj : error LNK2019: unresolved external symbol lua_pcallk referenced in function "public: void __cdecl LowLua::do_file(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?do_file@LowLua@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+LowLua.obj : error LNK2019: unresolved external symbol luaL_openlibs referenced in function "public: void __cdecl LowLua::open_default_libs(void)" (?open_default_libs@LowLua@@QEAAXXZ)
+LowLua.obj : error LNK2019: unresolved external symbol luaL_loadfilex referenced in function "public: void __cdecl LowLua::do_file(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?do_file@LowLua@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+LowLua.obj : error LNK2019: unresolved external symbol luaL_newstate referenced in function "public: __cdecl LowLua::LowLua(int,char * *)" (??0LowLua@@QEAA@HPEAPEAD@Z)
+C:\Users\Riley Peel\Documents\lua-headers\lua54.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Riley Peel\dev\c++\LowLua\x64\Debug\LowLua.exe : fatal error LNK1120: 8 unresolved externals
