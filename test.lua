@@ -1,6 +1,0 @@
-print(sizeOf("number"))
-print(sizeOf("string"))
-print(sizeOf("boolean"))
-print(sizeOf("table"))
-print(sizeOf("userdata"))
-print(sizeOf("thread"))

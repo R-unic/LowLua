@@ -137,6 +137,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="globals.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -146,6 +147,7 @@
     <ClInclude Include="..\..\..\Documents\lua-headers\include\luaconf.h" />
     <ClInclude Include="..\..\..\Documents\lua-headers\include\lualib.h" />
     <ClInclude Include="common.hpp" />
+    <ClInclude Include="globals.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
